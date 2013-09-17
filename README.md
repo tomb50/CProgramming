@@ -1,10 +1,10 @@
 CProgramming
 ============
 
-This is personaly/learning repository to store old course assignments written in C over the past few years whilst 
-at University, from introductory level (270) to collaborative assignments (390) and part of a final year project.
+This is a repository purely to store old course assignments written in C over the past few years whilst studying
+at University, from introductory level (270) to collaborative assignments (390) and part of a final year Astrophysics
+project (319).
 
-It is likely that some of the programs may contain logical errors and bugs so if you anyone wishes to use them 
-or extend the programs I would strongly suggest cross referencing the results with seperate method.
-
+Having had no programming experience prior to these assignments, it is likely that some of the programs contain logical
+errors or potential bugs and should not taken as model implementations.
 
